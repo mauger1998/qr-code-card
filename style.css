@@ -6,14 +6,37 @@ body{
     height:500px;
     width: 350px;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 30px;
     text-align: center;
-    margin-left: 200px;
+    margin-left: 550px;
     margin-top: 150px;
     background-color: white;
+    text-align: center;
     
 }
 .lower-text {
-    margin-top: 300px;;
+    margin-top: 15px;;
+    text-align: center;
 }
 
+.header {
+    font-size:10px;
+}
+.bottom-text {
+    font-size: 15px;
+    text-align:center;
+    margin: 20px 10px;
+}
+
+.attribution {
+    margin-top: 25px;
+}
+
+.code {
+    width: 300px;
+    margin:0;
+    margin-top:20px;
+    border: 1px solid white;
+    border-radius: 50px;
+
+}
