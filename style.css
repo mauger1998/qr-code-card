@@ -1,5 +1,6 @@
 body{
     width:1440px;
+    background:lightgrey;
 }
 .card {
     height:500px;
@@ -9,4 +10,10 @@ body{
     text-align: center;
     margin-left: 200px;
     margin-top: 150px;
+    background-color: white;
+    
 }
+.lower-text {
+    margin-top: 300px;;
+}
+
